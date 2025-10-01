@@ -2,7 +2,7 @@
 
 🎯 **Group Manager & Strategic QA Leader | SQA Trainer | AI Enthusiast**  
 📍 Tokyo, Japan | 📧 rizve.muktadir@gmail.com | 🌐 https://www.linkedin.com/in/rizvee-muktadir-b685b513/ 
-📞 Contact: +81-80-6676-2983
+ Contact: +81-80-6676-2983
 
 ---
 
