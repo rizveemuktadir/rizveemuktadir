@@ -2,7 +2,7 @@
 
 🎯 QA Manager | Software Testing | Quality Strategy | Delivery Excellence/ 
 
-📍 Tokyo, Japan | 📧 rizve.muktadir@gmail.com | 🌐 https://www.linkedin.com/in/rizvee-muktadir-b685b513/ |
+📍 Tokyo, Japan | 📧 rizvee.muktadir@gmail.com | 🌐 https://www.linkedin.com/in/rizvee-muktadir-b685b513/ |
  Contact: +81-80-6676-2983
 
 ---
