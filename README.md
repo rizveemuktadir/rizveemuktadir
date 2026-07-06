@@ -1,13 +1,47 @@
 ## Hello Viewer, This is Moeid Muktadir Rizvee 
 
-🎯 **Group Manager & Strategic QA Leader | SQA Trainer | AI Enthusiast**  
+🎯 **QA Manager | Software Testing | Quality Strategy | Delivery Excellence **
 📍 Tokyo, Japan | 📧 rizve.muktadir@gmail.com | 🌐 https://www.linkedin.com/in/rizvee-muktadir-b685b513/ |
  Contact: +81-80-6676-2983
 
 ---
 
-##  About Me
-A seasoned Group Manager & QA Lead with 18+ years of global experience (Asia,Europe,APAC) in Software Quality Engineering.I leverage deep expertise in test strategies, driving test activities and Process Improvements to optimize QA processes and significantly improve product reliability. As an experienced Trainer and Mentor, I empower teams and cultivate talent, having conducted numerous impactful workshops. My enthusiasm for AI drives continuous innovation, seeking intelligent solutions to enhance testing efficiency and shape the future of quality assurance.
+# Rizvee Muktadir
 
 
 
+I help teams improve software quality through structured QA practices, better testing processes, and strong cross-functional collaboration.
+
+Currently based in Tokyo, Japan, I work in QA leadership with experience supporting product quality, release confidence, and continuous improvement in technology-driven environments.
+
+### Services
+- QA process review
+- Test strategy support
+- Manual testing coordination
+- Release readiness support
+- Defect tracking and quality reporting
+- QA team workflow improvement
+
+### Why Work With Me
+- Leadership experience in QA
+- Strong communication across teams
+- Focus on practical, scalable quality improvements
+- Experience in international work environments
+- Commitment to reliable delivery and product excellence
+
+### Professional Background
+**Manager, QA — Rakuten Travel QA**  
+Tokyo, Japan
+
+### Focus Areas
+- Software Quality Assurance
+- Test Planning
+- Quality Operations
+- Process Improvement
+- Team Coordination
+- Product Reliability
+
+### Contact
+- LinkedIn: [Add link]
+- GitHub: [Add link]
+- Email: [Add email]
