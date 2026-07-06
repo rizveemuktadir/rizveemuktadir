@@ -90,6 +90,6 @@ I am passionate about building quality-driven teams and helping organizations de
 ## Contact
 
 - Location: Tokyo, Japan
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your email]
-- GitHub: [Add your GitHub URL]
+- LinkedIn: www.linkedin.com/in/rizvee-muktadir-b685b513
+- Email: rizvee.muktadir@gmail.com
+  
