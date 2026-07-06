@@ -1,6 +1,6 @@
 ## Hello Viewer, This is Moeid Muktadir Rizvee 
 
-🎯 **QA Manager | Software Testing | Quality Strategy | Delivery Excellence **
+🎯 QA Manager | Software Testing | Quality Strategy | Delivery Excellence
 📍 Tokyo, Japan | 📧 rizve.muktadir@gmail.com | 🌐 https://www.linkedin.com/in/rizvee-muktadir-b685b513/ |
  Contact: +81-80-6676-2983
 
